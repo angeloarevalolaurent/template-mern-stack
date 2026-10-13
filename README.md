@@ -1,14 +1,14 @@
 # 🚀 MERN Stack Starter Template
 
-Un template base y modular full stack con la arquitectura **MERN** (MongoDB, Express.js, React, Node.js) listo para iniciar cualquier proyecto web de forma rápida, limpia y escalable.
+A modular and clean full-stack starter template using the **MERN** architecture (MongoDB, Express.js, React, Node.js), designed to jumpstart any web project quickly and scalably.
 
 ---
 
-## 📐 Estructura del Proyecto
+## 📐 Project Structure
 
-El repositorio está organizado como un monorepo ligero con carpetas independientes para el **Frontend** y el **Backend**:
+The repository is organized as a lightweight monorepo with independent folders for the **Frontend** and **Backend**:
 
 ```text
 .
-├── backend/          # Servidor Node.js + Express 
-└── frontend/         # Aplicación cliente en React
+├── backend/          # Node.js + Express server 
+└── frontend/         # React client application
